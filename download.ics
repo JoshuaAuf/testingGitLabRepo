@@ -1,0 +1,57 @@
+ BEGIN:VCALENDAR
+PRODID:-//Coursera//Learner Study Calendar 1.0//EN
+NAME:Coursera Study Calendar
+X-WR-CALNAME:Coursera Study Calendar
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20230310T124912Z
+DTSTART:20230306T060000
+DTEND:20230306T070000
+SUMMARY:Learning time - Getting Started with Git and GitHub
+UID:qpVajkliEeyq9Q4Bl6meLw~2023-03-10T12:49:12.556843996~courseraorg
+DESCRIPTION:Course: Getting Started with Git and GitHub\nhttps://www.cour
+ sera.org/learn/getting-started-with-git-and-github/home/welcome
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20230404T125238Z;BYDAY=MO
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230310T124912Z
+DTSTART:20230307T060000
+DTEND:20230307T070000
+SUMMARY:Learning time - Getting Started with Git and GitHub
+UID:qpVajkliEeyq9Q4Bl6meLw~2023-03-10T12:49:12.585445525~courseraorg
+DESCRIPTION:Course: Getting Started with Git and GitHub\nhttps://www.cour
+ sera.org/learn/getting-started-with-git-and-github/home/welcome
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20230404T125238Z;BYDAY=TU
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230310T124912Z
+DTSTART:20230308T060000
+DTEND:20230308T070000
+SUMMARY:Learning time - Getting Started with Git and GitHub
+UID:qpVajkliEeyq9Q4Bl6meLw~2023-03-10T12:49:12.641848600~courseraorg
+DESCRIPTION:Course: Getting Started with Git and GitHub\nhttps://www.cour
+ sera.org/learn/getting-started-with-git-and-github/home/welcome
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20230404T125238Z;BYDAY=WE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230310T124912Z
+DTSTART:20230309T060000
+DTEND:20230309T070000
+SUMMARY:Learning time - Getting Started with Git and GitHub
+UID:qpVajkliEeyq9Q4Bl6meLw~2023-03-10T12:49:12.693622497~courseraorg
+DESCRIPTION:Course: Getting Started with Git and GitHub\nhttps://www.cour
+ sera.org/learn/getting-started-with-git-and-github/home/welcome
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20230404T125238Z;BYDAY=TH
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230310T124912Z
+DTSTART:20230310T060000
+DTEND:20230310T070000
+SUMMARY:Learning time - Getting Started with Git and GitHub
+UID:qpVajkliEeyq9Q4Bl6meLw~2023-03-10T12:49:12.725724401~courseraorg
+DESCRIPTION:Course: Getting Started with Git and GitHub\nhttps://www.cour
+ sera.org/learn/getting-started-with-git-and-github/home/welcome
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20230404T125238Z;BYDAY=FR
+END:VEVENT
+END:VCALENDAR
